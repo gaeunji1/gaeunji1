@@ -6,7 +6,7 @@
 
 [![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunji1&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/gaeunji1/github-readme-stats)
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/gaeunji1/github-stats-transparent">
 
 ![](https://raw.githubusercontent.com/gaeunji1/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/gaeunji1/github-stats-transparent/output/generated/languages.svg)

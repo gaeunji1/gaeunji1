@@ -4,18 +4,15 @@
 
 ---
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaeunji1&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/gaeunji1)
-
 [![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunji1&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/gaeunji1/github-readme-stats)
 
 ---
 
 ## 💻 DEV's Log 💻
 
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://easyhomputer.tistory.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimgascooding.tistory.com/)
 [![Notion](https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 
 ---
 

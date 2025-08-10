@@ -12,7 +12,7 @@
 ## 💻 DEV's Log 💻
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimgascooding.tistory.com/)
-[![Notion](https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white)](https://sincere-navy-295.notion.site/Hi-I-m-Jane-24bcd6e0f3af80db9160ea17f032de4d?source=copy_link))
+[![Notion](https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white)](https://sincere-navy-295.notion.site/Hi-I-m-Jane-24bcd6e0f3af80db9160ea17f032de4d?source=copy_link)
 
 
 ---

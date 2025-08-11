@@ -5,7 +5,7 @@
 ---
 
 [![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunji1&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/gaeunji1/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeunji1&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
 
